@@ -2,8 +2,6 @@
 
 <!--
 **Carlcliffe/Carlcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
-
-
 ![Screenshot 2025-05-14 223309](https://github.com/user-attachments/assets/44075b8e-1b8e-4a9e-b541-f4635a7fe1c3)
 ![Screenshot 2025-05-14 223744](https://github.com/user-attachments/assets/8129412c-786a-4034-b29b-b2f6ee6d09c3)
 ![Screenshot 2025-05-14 223819](https://github.com/user-attachments/assets/2fb8a102-f419-4f8d-8bd7-15a99c3b19b7)
